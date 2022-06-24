@@ -1,0 +1,21 @@
+{
+  "name": "gun-node-3",
+  "version": "1.0.0",
+  "description": "Gun Node 3 - Part of Gun Cluster",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gun",
+    "Node"
+  ],
+  "author": "Ansh Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "gun": "^0.2020.1237"
+  }
+}
